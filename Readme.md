@@ -32,6 +32,6 @@ TBD
 `Amount of mashing water = "Malt in kg" * 2,5 + 10,5 liter`
 
 `Amount of mashing water = "Malt in kg" * 4 + 10,5 liter`
-###Formulas
+### Formulas
 `Preboil = "volume for fermentation" + Total Boiloff + Krymp + Trubloss`
 

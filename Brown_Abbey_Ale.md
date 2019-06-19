@@ -9,8 +9,8 @@
 |Water for rinsing			| NaN | until preboil volume is reached |
 |Estimated Boiloff			| 19,25L??? / 2,4 L/h |8,02 Liter|
 |Preboil volume				|12,5+8,02+(12,5*0,04)+[Trubloss] |21,02 + [Trubloss]|
-|OG (target)					||1062|
+|OG (target)					|From recepie|1062|
 |OG	 (messured)				||TBD|
-|FG (target)					||1015|
+|FG (target)					|From recepie|1015|
 |FG	 (messured)				||TBD|
 

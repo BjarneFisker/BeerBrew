@@ -2,6 +2,8 @@
 |---							|---			 |--- |
 |Alkohol (target)			|From recepie	 |6,2%|
 |Amount of Grain				|From recepie	 |3,5 kg|
+|Mashing time					|From recepie	 |90 min|
+|Boiloff time					|From recepie	 |60 min|
 |Volume for fermentation	|From recepie |12,5 Liter|
 |Krymp							|12,5*0,04   |0,5 Liter|
 |Trubloss						|Messured    |??|

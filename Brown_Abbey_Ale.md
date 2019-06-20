@@ -6,7 +6,7 @@
 |Boil time					|From recepie	 |60 min|
 |Volume for fermentation	|From recepie |12,5 Liter|
 |Krymp							|12,5*0,04   |0,5 Liter|
-|Trubloss						|Messured    |??|
+|Trubloss						|Messured    |2,56 Liter|
 |Water for mashing			|(from formula) 3,5kg * 2,5 +10,5 |19,25 Liter|
 |Water for sparging			| NaN | until preboil volume is reached |
 |Estimated Boiloff			| 1 hour * 2,4 L/h |2,4 Liter|

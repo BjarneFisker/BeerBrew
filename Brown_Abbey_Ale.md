@@ -10,9 +10,9 @@
 |Water for mashing			|(from formula) 3,5kg * 2,5 +10,5 |19,25 Liter|
 |Water for sparging			| NaN | until preboil volume is reached |
 |Estimated Boiloff			| 1 hour * 2,4 L/h |2,4 Liter|
-|Preboil volume				|12,5+2,4+(12,5*0,04)+[Trubloss] |15,4 + [Trubloss]|
+|Preboil volume				|12,5+2,4+(12,5*0,04)+2,56 |17,96|
 |OG (target)					|From recepie|1062|
-|OG	 (messured)				||TBD|
+|OG	 (measured)				||TBD|
 |FG (target)					|From recepie|1015|
-|FG	 (messured)				||TBD|
+|FG	 (measured)				||TBD|
 

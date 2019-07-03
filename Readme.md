@@ -10,7 +10,7 @@
 `1 liter = 1 cm`
 
 ### Boiloff
-Amount of water boiling off at 99° over time
+Amount of water boiling off in one hour
 
 99 degrees
 
